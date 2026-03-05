@@ -1,3 +1,4 @@
+print("ㅎㅎ")
 import random
 
 def generate_sudoku():
